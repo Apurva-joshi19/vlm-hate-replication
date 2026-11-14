@@ -1,0 +1,8 @@
+System,alpha,alpha CI,alpha 4 coders (humans+model),Δ alpha (subst − humans),Δ CI,mean κ model–human,mean κ human–human
+Humans only (3 coders),0.333,"[0.308, 0.357]",,,,,0.333
+(a) Text only,0.196,,0.231,-0.137,"[-0.159, -0.114]",0.128,0.333
+(b) Description only,0.018,,0.121,-0.315,"[-0.332, -0.297]",0.009,0.333
+(c) Text + description,0.141,,0.199,-0.193,"[-0.212, -0.171]",0.112,0.333
+(d) Text + OCR,0.191,,0.227,-0.143,"[-0.163, -0.120]",0.123,0.333
+LaBSE + LR,0.049,,0.141,-0.285,"[-0.302, -0.265]",0.039,0.333
+LaBSE + LR + SMOTE,0.27,,0.285,-0.064,"[-0.084, -0.044]",0.238,0.333

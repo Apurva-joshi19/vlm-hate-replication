@@ -1,0 +1,7 @@
+,Recall | hate 3/3,Recall | hate 2/3,Specificity | not-hate 3/3,Specificity | not-hate 2/3
+(a) Text only,0.66,0.552,0.571,0.524
+(b) Description only,0.037,0.015,0.984,0.975
+(c) Text + description,0.281,0.157,0.927,0.892
+(d) Text + OCR,0.539,0.424,0.696,0.611
+LaBSE + LR,0.083,0.048,0.989,0.972
+LaBSE + LR + SMOTE,0.703,0.557,0.728,0.576

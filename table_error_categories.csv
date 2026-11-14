@@ -1,0 +1,9 @@
+category,FN (missed hate),FP (false alarm),Total
+Total,15,15,30
+Reclaimed / in-group slur,6,9,15
+Questionable human label,2,4,6
+Quoting / meta-talk about a slur,2,1,3
+"Insult, no protected-group target",1,1,2
+Image-dependent,2,0,2
+Implicit / coded hate,1,0,1
+Explicit slur missed,1,0,1

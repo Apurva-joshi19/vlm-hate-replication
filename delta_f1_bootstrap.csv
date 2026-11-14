@@ -1,0 +1,11 @@
+A,B,ΔF1 (A−B),95% CI,p_boot,set,p_boot (Holm)
+(a) Text only,(c) Text + description,0.254,"[0.227, 0.283]",0.0,main (n=3000),0.0
+(a) Text only,(d) Text + OCR,0.062,"[0.047, 0.078]",0.0,main (n=3000),0.0
+(a) Text only,(b) Description only,0.539,"[0.513, 0.564]",0.0,main (n=3000),0.0
+(c) Text + description,(d) Text + OCR,-0.192,"[-0.218, -0.165]",0.0,main (n=3000),0.0
+LaBSE + LR + SMOTE,(a) Text only,0.048,"[0.024, 0.073]",0.0,main (n=3000),0.0
+LaBSE + LR + SMOTE,LaBSE + LR,0.517,"[0.490, 0.544]",0.0,main (n=3000),0.0
+reasoning (a),reasoning (c),0.16,"[0.069, 0.255]",0.001,reasoning (n=240),0.003
+reasoning (a),reasoning (d),0.052,"[-0.021, 0.124]",0.156,reasoning (n=240),0.156
+reasoning (a),direct (a),0.08,"[0.036, 0.130]",0.0,reasoning (n=240),0.0
+reasoning (c),direct (c),0.102,"[0.036, 0.177]",0.002,reasoning (n=240),0.004

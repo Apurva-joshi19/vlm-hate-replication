@@ -1,0 +1,7 @@
+A,B,A right / B wrong,A wrong / B right,chi2,p,p (Holm)
+(a) Text only,(c) Text + description,613,576,1.09,2.96e-01,5.93e-01
+(a) Text only,(d) Text + OCR,226,198,1.72,1.90e-01,5.69e-01
+(a) Text only,(b) Description only,900,678,30.95,2.65e-08,1.32e-07
+(c) Text + description,(d) Text + OCR,440,449,0.07,7.88e-01,7.88e-01
+LaBSE + LR + SMOTE,(a) Text only,735,542,28.87,7.75e-08,3.10e-07
+LaBSE + LR + SMOTE,LaBSE + LR,847,493,92.99,5.25e-22,3.15e-21

@@ -1,0 +1,17 @@
+# Tested on Google Colab (T4 GPU, Python 3.13), November 2026
+torch
+transformers>=4.49
+accelerate
+bitsandbytes
+pillow
+sentence-transformers
+scikit-learn
+imbalanced-learn
+statsmodels
+scipy
+krippendorff
+pandas
+numpy
+matplotlib
+tqdm
+kaggle

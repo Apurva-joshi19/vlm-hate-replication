@@ -1,0 +1,7 @@
+,0/3 hate votes,1/3 hate votes,2/3 hate votes,3/3 hate votes
+(a) Text only,0.429,0.475,0.546,0.658
+(b) Description only,0.015,0.024,0.015,0.037
+(c) Text + description,0.076,0.108,0.159,0.274
+(d) Text + OCR,0.304,0.387,0.421,0.541
+LaBSE + LR,0.185,0.224,0.261,0.306
+LaBSE + LR + SMOTE,0.413,0.469,0.522,0.583

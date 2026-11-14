@@ -1,0 +1,10 @@
+Task: Determine whether this {MODALITY} contains hateful elements.
+  Definition: Content that promotes violence or incites hatred against individuals/groups based on: race, ethnic origin, religion, disability, gender, age, veteran status, or sexual orientation/gender identity.
+  Hateful content includes: dehumanizing speech or imagery, allegations of serious immorality/criminality, slurs or harmful stereotypes, serious insults/contempt/disgust, calls for exclusion or segregation.
+  Instructions:
+1. Analyze completely
+2. Is this hateful content? (Yes/No)
+Output Schema:
+{"type": "object", "properties": {"hateful content": {"type": "boolean"}}, "required": ["hateful content"]}
+
+{CONTENT}
